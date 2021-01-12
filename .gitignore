@@ -1,0 +1,6 @@
+.idea
+
+*.cfg
+!example.cfg
+
+env/
