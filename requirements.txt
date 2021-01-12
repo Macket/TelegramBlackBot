@@ -1,0 +1,4 @@
+pytelegrambotapi==3.7.5
+python-dotenv==0.15.0
+pywaves==0.8.38
+timeloop==1.0.2
