@@ -1,7 +1,5 @@
 .idea
-
-*.cfg
-!example.cfg
+__pycache__/
 
 env/
 .env
